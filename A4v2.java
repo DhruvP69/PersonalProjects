@@ -1,3 +1,10 @@
+/*
+Dhruv Patel
+Oct 20 2023
+This program is supposed to represent the growth of bacteria in a 10x10 panel, the program will get an inital coordinate chosen by the user(that will be the first bacteria spot)
+Each bacteria will then spread in a direction either up, down, left, or right at random(depending on whats available).
+After 4 cycles a bacteria will die.
+*/
 import java.util.*;
 //Class
 public class A4v2 {
