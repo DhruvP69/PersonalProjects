@@ -7,7 +7,7 @@ After 4 cycles a bacteria will die.
 */
 import java.util.*;
 //Class
-public class A4v2 {
+public class bacteriaGrowth {
     //This method is going to be used to check how many possible baterial points a specific coordinate has in the middle
     public static String direction(int grid[][], int row, int col){
         //To randomly determain the direction of the bacteria, the value which decided the direction will be different for each if statement because im lazy:p
